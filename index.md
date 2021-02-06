@@ -4,24 +4,34 @@
 
 ### Projects
 
-[Movie Recommendation System](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Movie Recommendation System](/projects/movies)
 
 ---
-[Twitter Natural Language Processing](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Twitter Natural Language Processing](/projects/usaTweets)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[OUC Classification](projects/ouc)
+
+---
+[Diabetes Meelitus Classification](projects/WiDS)
+
+---
+[Totyota Time-Series Modeling and Prediction](projects/toyota)
 
 ---
 
 ### Passions
 
-- [Backpacking](/passions/backpacking)
-- [Olga the Bus](/passions/skoolie)
-- [Coaching](/passions/coaching)
-- [Traveling](/passions/travels)
+[Backpacking](/passions/backpacking)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Olga the Bus](/passions/skoolie)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Coaching](/passions/coaching)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Traveling](/passions/travels)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
