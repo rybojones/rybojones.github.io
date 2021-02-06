@@ -31,7 +31,7 @@ I am working as a member of a small consultancy team for Southern States ToyotaL
 ---
 
 [Backpacking](/passions/backpacking)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hiker.png?raw=true"/>
 
 [Olga the Bus](/passions/skoolie)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
