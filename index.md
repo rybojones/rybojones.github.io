@@ -1,4 +1,4 @@
-<h1 style="color:red;">This site is a work in progress!</h1>
+<h2 style="color:red;">This site is a work in progress. Please bear with e as I update it incrementally!</h2>
 
 # Project Portfolio
 
