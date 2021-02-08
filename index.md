@@ -1,4 +1,4 @@
-# Portfolio
+# Project Portfolio
 
 ---
 
@@ -33,10 +33,8 @@ I am working as a member of a small consultancy team for Southern States ToyotaL
 [<img src="/images/hiker.png?raw=true"/>](/passions/backpacking)
 <!-- <img src="/images/hiker.png?raw=true"/> -->
 
-[Olga the Bus](/passions/skoolie)
-<img src="/images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="/images/skoolie.png?raw=true"/>](/passions/skoolie)
 
-[Traveling](/passions/travels)
-<img src="/images/travel.png?raw=true"/>
+[<img src="/images/travel.png?raw=true"/>](/passions/travels)
 
 ---
