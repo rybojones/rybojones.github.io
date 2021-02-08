@@ -1,3 +1,7 @@
+<header>
+    <h1 style="color:red;">This site is a work in progress!</h1>
+</header>
+
 # Project Portfolio
 
 ---
