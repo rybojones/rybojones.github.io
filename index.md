@@ -30,8 +30,8 @@ I am working as a member of a small consultancy team for Southern States ToyotaL
 ## Passions and Experiences
 ---
 
-[Backpacking](/passions/backpacking)
-<img src="/images/hiker.png?raw=true"/>
+[<img src="/images/hiker.png?raw=true"/>](/passions/backpacking)
+<!-- <img src="/images/hiker.png?raw=true"/> -->
 
 [Olga the Bus](/passions/skoolie)
 <img src="/images/dummy_thumbnail.jpg?raw=true"/>
