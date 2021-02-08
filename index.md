@@ -19,7 +19,7 @@ I utilized natural language processing techniques to perform sentiment analysis 
 As a member of a four-person team, I am participating in a joint organization (University of Central Florida – Orlando Utilities Commission) data science competition with the stated goal of disaggregating customer load usage in order to identify customers with an electric vehicle. I also have the added benefit of gaining experience working with large data (25+ billion records in some tables) in a SnowFlake database and learning how this affects data insight, cleaning and model selection.
 
 ---
-### [Diabetes Mellitus Classification](projects/WiDS)
+### [Diabetes Mellitus Classification](https://www.kaggle.com/c/widsdatathon2021/overview)
 
 Collaborating with a team of close female peers, I am participating in the Women in Data Science 2021 Datathon organized by Kaggle. We are working to identify ICU patients with Diabetes Mellitus based on initial diagnostic data, with the aim to reduce mortality rate. We have been lucky to organize meetings with domain experts who provide valuable information. This exchange of information will enable us to create an ensemble method, utilizing medical research and data science to create a better performing model.
 
@@ -33,10 +33,13 @@ I am working as a member of a small consultancy team for Southern States ToyotaL
 ---
 
 [<img src="/images/hiker.png?raw=true"/>](/passions/backpacking)
-<!-- <img src="/images/hiker.png?raw=true"/> -->
 
 [<img src="/images/skoolie.png?raw=true"/>](/passions/skoolie)
 
 [<img src="/images/travel.png?raw=true"/>](/passions/travels)
+
+[<img src="/images/parks.png?raw=true"/>](/passions/travels)
+
+[<img src="/images/rafting.png?raw=true"/>](/passions/travels)
 
 ---
