@@ -27,7 +27,7 @@ Collaborating with a team of close female peers, I am participating in the Women
 I am working as a member of a small consultancy team for Southern States ToyotaLift to fulfill my Capstone requirement for graduation. We have been tasked with predicting the point in time that the maintenance cost per hour becomes greater than the purchase cost per hour of a forklift. We are using SCRUM software development process as we create a model to fulfill the business specifications and implementing this workflow using GitHub Projects.
 
 ---
-## Passions
+## Passions and Experiences
 ---
 
 [Backpacking](/passions/backpacking)
@@ -36,10 +36,7 @@ I am working as a member of a small consultancy team for Southern States ToyotaL
 [Olga the Bus](/passions/skoolie)
 <img src="/images/dummy_thumbnail.jpg?raw=true"/>
 
-[Coaching](/passions/coaching)
-<img src="/images/dummy_thumbnail.jpg?raw=true"/>
-
 [Traveling](/passions/travels)
-<img src="/images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/travel.png?raw=true"/>
 
 ---
