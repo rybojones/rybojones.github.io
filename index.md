@@ -1,6 +1,21 @@
 <h2 style="color:palevioletred">This site is a work in progress. Please bear with me as I update it incrementally!</h2>
 
-# Project Portfolio
+## Passions and Experiences
+---
+
+[<img src="/images/hiker.png?raw=true"/>](/passions/backpacking)
+
+[<img src="/images/skoolie.png?raw=true"/>](https://www.olgathebus.com)
+
+[<img src="/images/travel.png?raw=true"/>](/passions/travels)
+
+[<img src="/images/parks.png?raw=true"/>](/passions/travels)
+
+[<img src="/images/rafting.png?raw=true"/>](/passions/travels)
+
+---
+
+# Data Science Portfolio
 
 ---
 
@@ -27,19 +42,5 @@ Collaborating with a team of close female peers, I am participating in the Women
 ### [TotyotaLift Clustering and Time-Series Modeling](projects/toyota)
 
 I am working as a member of a small consultancy team for Southern States ToyotaLift to fulfill my Capstone requirement for graduation. We have been tasked with predicting the point in time that the maintenance cost per hour becomes greater than the purchase cost per hour of a forklift. We are using SCRUM software development process as we create a model to fulfill the business specifications and implementing this workflow using GitHub Projects.
-
----
-## Passions and Experiences
----
-
-[<img src="/images/hiker.png?raw=true"/>](/passions/backpacking)
-
-[<img src="/images/skoolie.png?raw=true"/>](https://www.olgathebus.com)
-
-[<img src="/images/travel.png?raw=true"/>](/passions/travels)
-
-[<img src="/images/parks.png?raw=true"/>](/passions/travels)
-
-[<img src="/images/rafting.png?raw=true"/>](/passions/travels)
 
 ---
