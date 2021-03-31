@@ -31,7 +31,7 @@ I utilized natural language processing techniques to perform sentiment analysis 
 ---
 ### [Orlando Utilities Company Classification](projects/ouc)
 
-As a member of a four-person team, I am participating in a joint organization (University of Central Florida – Orlando Utilities Commission) data science competition with the stated goal of disaggregating customer load usage in order to identify customers with an electric vehicle. I also have the added benefit of gaining experience working with large data (25+ billion records in some tables) in a SnowFlake database and learning how this affects data insight, cleaning and model selection.
+Winner of UCF Big Data Analytics Symposium 2021 competition with the stated goal of disaggregating Orlando Utilities Commission customer load usage and classifying customers with an electric vehicle. Working with large data (25+ billion records in some tables) in a SnowFlake data warehouse, we were able to define a domain knowledge model that outperformed traditional machine learning models by achieving, on average, 10%+ higher accuracy, precision and recall.
 
 ---
 ### [Diabetes Mellitus Classification](https://www.kaggle.com/c/widsdatathon2021/overview)
