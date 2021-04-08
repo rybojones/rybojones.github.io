@@ -14,7 +14,7 @@ In an attempt to identify consumer propensity towards specific movie genres, I c
 I utilized natural language processing techniques to perform sentiment analysis and topic modeling for all U.S. Senate and House of Representative member Tweets in the month leading up to the 2020 Presidential election. These findings provided insight into the limitations of sentiment analysis on social media text and how context can be obfuscated when using such a technique.
 
 ---
-### [Orlando Utilities Company Classification](projects/ouc)
+### [Orlando Utilities Company Classification](https://drive.google.com/file/d/19DBBbFypyWNO0m0hYJFFmQubP0zeqS_C/view?usp=sharing)
 
 Winner of UCF Big Data Analytics Symposium 2021 competition with the stated goal of disaggregating Orlando Utilities Commission customer load usage and classifying customers with an electric vehicle. Working with large data (25+ billion records in some tables) in a SnowFlake data warehouse, we were able to define a domain knowledge model that outperformed traditional machine learning models by achieving, on average, 10%+ higher accuracy, precision and recall.
 
