@@ -10,11 +10,11 @@
 
 ---
 
-[<img src="/images/hiker.png?raw=true"/>](/passions/backpacking)
+[<img src="/images/hiker.png?raw=true"/>](/passions/backpack.md)
 
 ---
 
-[<img src="/images/travel.png?raw=true"/>](/passions/travels)
+[<img src="/images/travel.png?raw=true"/>](/passions/travel.md)
 
 ---
 
