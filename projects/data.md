@@ -10,7 +10,7 @@ Winner of UCF Big Data Analytics Symposium 2021 competition with the stated goal
 ---
 ### [Diabetes Mellitus Classification](https://www.kaggle.com/c/widsdatathon2021/overview)
 
-Collaborating with a team of close female peers, I am participating in the Women in Data Science 2021 Datathon organized by Kaggle. We are working to identify ICU patients with Diabetes Mellitus based on initial diagnostic data, with the aim to reduce mortality rate. We have been lucky to organize meetings with domain experts who provide valuable information. This exchange of information will enable us to create an ensemble method, utilizing medical research and data science to create a better performing model.
+Collaborating with a team of close female peers in the Women in Data Science 2021(WiDS) worldwide data-thon organized by Kaggle, we created an ensemble model utilizing XGBoost and Linear Regression to identify ICU patients with Diabetes Mellitus. We were able to achieve an AUC score a mere 0.010 below the winning submission score, placing us firmly in the top-half of submissions. This experience was both exciting and educational and I plan on participating in future Kaggle events frequently to get exposure to new methodologies and continually grow my knowledgebase.
 
 ---
 ### [Movie Recommendation System](https://github.com/rybojones/MSDA-Recommendation-System)
