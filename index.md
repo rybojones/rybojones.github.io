@@ -25,5 +25,3 @@
 [<img src="/images/rafting.png?raw=true"/>](/passions/travels)
 
 ---
-
-<h3 style="color:palevioletred">This site is a work in progress. Please bear with me as I update it incrementally!</h3>
