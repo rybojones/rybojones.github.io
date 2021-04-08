@@ -23,7 +23,7 @@ In an attempt to identify consumer propensity towards specific movie genres, I c
 I utilized natural language processing techniques to perform sentiment analysis and topic modeling for all U.S. Senate and House of Representative member Tweets in the month leading up to the 2020 Presidential election. These findings provided insight into the limitations of sentiment analysis on social media text and how context can be obfuscated when using such a technique.
 
 ---
-### [TotyotaLift Clustering and Time-Series Modeling](projects/toyota)
+### [TotyotaLift Clustering and Time-Series Modeling](https://github.com/rybojones/Capstone-Toyota)
 
 I am working as a member of a small consultancy team for Southern States ToyotaLift to fulfill my Capstone requirement for graduation. We have been tasked with predicting the point in time that the maintenance cost per hour becomes greater than the purchase cost per hour of a forklift. We are using SCRUM software development process as we create a model to fulfill the business specifications and implementing this workflow using GitHub Projects.
 
