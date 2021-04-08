@@ -18,7 +18,7 @@
 
 ---
 
-[<img src="/images/parks.png?raw=true"/>](/passions/travels)
+[<img src="/images/parks.png?raw=true"/>](https://observablehq.com/@acp/national-park-visulization-project)
 
 ---
 
