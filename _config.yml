@@ -2,12 +2,12 @@ title: Ryan Jones # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist
-  <br>  +
-  <br>  Outdoor Enthusiast
-  <br>    +
-  <br>    Skoolie Converter
-  <br>      +
-  <br>      Knowledge Seeker
+  <br>+
+  <br>Outdoor Enthusiast
+  <br>+
+  <br>Skoolie Converter
+  <br>+
+  <br>Knowledge Seeker
   <br><br>
   
 theme: jekyll-theme-minimal
