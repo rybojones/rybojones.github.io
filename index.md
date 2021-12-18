@@ -10,7 +10,7 @@
 
 ---
 
-[<img src="/images/hiker.png?raw=true"/>](/passions/backpack.md)
+[<img src="/images/hiker.png?raw=true"/>](https://www.alltrails.com/members/ryan-jones-350)
 
 ---
 
