@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 style="text-align:center; color:darkcyan"><a href="https://rybojones.github.io">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="text-align:center"><a href="https://rybojones.github.io"; style="color:#548AB7">{{ site.title | default: site.github.repository_name }}</a></h1>
         <!-- <h1><a href="https://rybojones.github.io" style="color:darkcyan; text-align:center;">Ryan Jones</a></h1> -->
 
         {% if site.logo %}
@@ -24,7 +24,7 @@
         <p style="text-align:center;">{{ site.description | default: site.github.project_tagline }}</p>
 
         <!-- include link to resume on side bar -->
-        <p style="color:mediumslateblue; text-align:center;"><a href="/pdf/Resume.pdf">View + Download My Resume Here</a></p>
+        <p style="text-align:center;"><a href="/pdf/Resume.pdf"; style="color:darkcyan">View + Download My Resume Here</a></p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -51,7 +51,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages</small></p>
+        <p style="text-align:right;"><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
