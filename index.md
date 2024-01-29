@@ -6,7 +6,7 @@
 
 ---
 
-[<img src="/images/skoolie.png?raw=true"/>](https://www.olgathebus.com)
+[<img src="/images/skoolie.png?raw=true"/>](https://www.ryannalife.com/skoolie)
 
 ---
 
